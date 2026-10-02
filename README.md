@@ -28,11 +28,6 @@ velora-cafe/
 ├── style.css
 └── script.js
 Getting started
-Clone the repository:
-bash
-   git clone https://github.com/your-username/velora-cafe.git
-   cd velora-cafe
-Open index.html in your browser, or serve the folder locally:
 bash
    # Python
    python -m http.server 8000
